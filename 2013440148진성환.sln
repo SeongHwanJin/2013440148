@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20180911JIN", "20180911JIN\20180911JIN.vcxproj", "{290C79B0-49C2-46DC-956B-E1EF741590C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20180911JIN2", "20180911JIN2\20180911JIN2.vcxproj", "{41D574B7-130E-47D4-9C10-24518C03FF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290C79B0-49C2-46DC-956B-E1EF741590C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{290C79B0-49C2-46DC-956B-E1EF741590C8}.Debug|Win32.Build.0 = Debug|Win32
+		{290C79B0-49C2-46DC-956B-E1EF741590C8}.Release|Win32.ActiveCfg = Release|Win32
+		{290C79B0-49C2-46DC-956B-E1EF741590C8}.Release|Win32.Build.0 = Release|Win32
+		{41D574B7-130E-47D4-9C10-24518C03FF9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41D574B7-130E-47D4-9C10-24518C03FF9B}.Debug|Win32.Build.0 = Debug|Win32
+		{41D574B7-130E-47D4-9C10-24518C03FF9B}.Release|Win32.ActiveCfg = Release|Win32
+		{41D574B7-130E-47D4-9C10-24518C03FF9B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
