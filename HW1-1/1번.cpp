@@ -5,9 +5,6 @@ int main() {
 	printf("두 수를 입력하시오 : ");
 	scanf("%d""%d", &a,&b);
 
-	/*printf("정수 b를 입력하시오 : ");
-	scanf("%d", &b);
-	*/
 	if (a < b)
 		printf("큰 수는 %d이다.", b);
 	else
