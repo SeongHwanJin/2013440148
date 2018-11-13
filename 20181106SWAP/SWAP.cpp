@@ -24,7 +24,7 @@ int main() {
 	int a = 100, b = 200; //9
 	//SWAP: 변수 a,b의 값을 바꾼다.
 	
-	swap(&a, &b); //12
+	swap(&a, &b); //12 
 	printf("a = %d, b = %d\n", a, b);
 
 	return 0;
