@@ -24,8 +24,8 @@ int main() {
 	//10 = a[2];
 
 
-
-	//printArray(a, 3);
+    a[2] = 10;
+	printArray(a, 3);
 
 	return 0;
 }
