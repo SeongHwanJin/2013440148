@@ -24,6 +24,7 @@ int main(){
 	printf("%s \n", b); //함수안에다가 배열 넣는데 길이 안집어 넣는다. 배열의 맨 마지막이 nul이라는 것을 함수가 알고있으니까. %s : 문자열(string) 출력
 	printf("the length of the string is %d \n", strlen(b)); //strlen:글자수 return
 
+	
 	char str1[50] = "hello";
 	char* str2 = " world";
 	strcat(str1, str2);
